@@ -2,8 +2,8 @@
 
 An experimental **persistent AI entity** that exists in time, forms an identity through experience, and evolves — built on a vector-memory backbone and a local LLM inference stack. ODIN remembers past interactions (episodic + semantic memory), accumulates identity from experience, and keeps the owner in absolute control.
 
-> 🎥 **Demo:** _add your Loom link here_ · 🖼️ Screenshots in [`docs/screenshots/`](./docs/screenshots/)
->
+<p align="center"><img src="./docs/screenshots/console-hero.png" alt="ODIN" width="220"></p>
+
 > 🔒 This is a **showcase repo**. Full source available on request.
 
 ---
