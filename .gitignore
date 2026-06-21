@@ -1,0 +1,41 @@
+# === Secrets & credentials (NEVER commit) ===
+.env
+.env.*
+*.ini
+config.ini
+*secret*
+*credential*
+*.key
+*.pem
+
+# === Data / models / DB dumps ===
+backups/
+db/*.sql.gz
+*.sql
+*.dump
+*.db
+*.sqlite
+*.log
+*.pkl
+*.bin
+*.safetensors
+
+# === Python ===
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# === Docker / deploy ===
+*.tar.gz
+
+# === OS / editor ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+!samples/
+!docs/
+!docs/screenshots/
